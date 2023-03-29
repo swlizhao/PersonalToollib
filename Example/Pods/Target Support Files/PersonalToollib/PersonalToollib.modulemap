@@ -1,0 +1,6 @@
+framework module PersonalToollib {
+  umbrella header "PersonalToollib-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - PersonalToollib (0.1.0)
+
+DEPENDENCIES:
+  - PersonalToollib (from `../`)
+
+EXTERNAL SOURCES:
+  PersonalToollib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PersonalToollib: 7d82bf245655ce33012115aaa4c4e3a41d8442ae
+
+PODFILE CHECKSUM: d2fdfec6b2f68db221406e50e3815b523a899d54
+
+COCOAPODS: 1.12.0
