@@ -12,6 +12,9 @@ NS_ASSUME_NONNULL_BEGIN
 @interface ToolLib : NSObject
 
 + (void)isLogin;
+
+/// 
++ (void)checkNetwork;
 @end
 
 NS_ASSUME_NONNULL_END

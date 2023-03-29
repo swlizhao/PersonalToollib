@@ -21,7 +21,7 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     [ToolLib isLogin];
-
+    [ToolLib checkNetwork];
 }
 
 - (void)didReceiveMemoryWarning
